@@ -1,6 +1,6 @@
 # Document Verification System
 
-## 📌 Project Overview
+##  Project Overview
 
 The Document Verification System is a Java-based application designed to verify and store user documents efficiently.
 It checks whether a document already exists in the database and prevents duplicate entries.
@@ -21,7 +21,7 @@ This project provides a simple solution to:
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Add new document details
 * Check for duplicate documents using ID
@@ -32,7 +32,7 @@ This project provides a simple solution to:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Java
 * JDBC (Java Database Connectivity)
@@ -57,7 +57,7 @@ src/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Make sure MySQL is running
 2. Create database and table:
@@ -94,14 +94,14 @@ Enter Type: Aadhar
 
 ---
 
-## 📊 Output
+##  Output
 
 * If document already exists → Duplicate message
 * If new → Document Verified & Stored
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 * Working with JDBC and MySQL
 * Database connectivity in Java
